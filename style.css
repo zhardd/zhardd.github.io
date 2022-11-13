@@ -9,8 +9,9 @@
         bottom: 0 !important;
         left: 0 !important;
         right: 0 !important;
-        
+        text-align: center !important;
         margin: auto;
+        display: inline-block !important;
     } 
 
     h1{
